@@ -1,13 +1,10 @@
-## Hi there welcome to my humble GitHub abode... Still under construction but feel free to poke around 👋
+## Welcome to my humble GitHub abode... Repos are always under work but feel free to poke around 👋
 <p align ="center"> <img width = "250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZnNmY4MGQ2emdkc2swMGJoa2Y0ZHRydXdycXRodWtodm95OWdoNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f1UH5LwVuWucM/giphy.gif"> </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=v4vazquez&style=plastic&color=blue&label=People+who+actually+viewed+my+profile+and+boosted+my+self+esteem🥲" alt="People who actually visited">
   <br>
-</p>
-
-<p align="center">
-  <a href = "https:dev.to/v4vazquez"><img width = "50" height = "50" src="https://github.com/user-attachments/assets/58bb5285-373c-4619-a5ec-be0a423fa803"/></a>
-  <a href = "https:linkedin.com/in/v4vazquez"><img width = "50" height = "50" src="https://github.com/user-attachments/assets/5c85ed24-c458-42cd-957d-e1a2c8e92404"/></a>
+    <a href = "https:dev.to/v4vazquez"><img width = "40" height = "40" src="https://github.com/user-attachments/assets/58bb5285-373c-4619-a5ec-be0a423fa803"/></a>
+  <a href = "https:linkedin.com/in/v4vazquez"><img width = "40" height = "40" src="https://github.com/user-attachments/assets/5c85ed24-c458-42cd-957d-e1a2c8e92404"/></a>
 </p>
 
 - 🔭 I’m currently working on a few side projects - ContactHub, TurnTable and Pipeline.
