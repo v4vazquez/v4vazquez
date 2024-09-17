@@ -4,14 +4,15 @@
   <img src="https://komarev.com/ghpvc/?username=v4vazquez&style=plastic&color=blue&label=People+who+actually+viewed+my+profile+and+boosted+my+self+esteem+🥲&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" alt="    People who actually visited">
   <br>
     <a href = "https:dev.to/v4vazquez"><img width = "40" height = "40" src="https://github.com/user-attachments/assets/58bb5285-373c-4619-a5ec-be0a423fa803"/></a>
-  <a href = "https:linkedin.com/in/v4vazquez"><img width = "40" height = "40" src="https://github.com/user-attachments/assets/5c85ed24-c458-42cd-957d-e1a2c8e92404"/></a>
+    <a href = "https:linkedin.com/in/v4vazquez"><img width = "40" height = "40" src="https://github.com/user-attachments/assets/5c85ed24-c458-42cd-957d-e1a2c8e92404"/></a>
 </p>
 
 - 🔭 I’m currently working on a few side projects - ContactHub, TurnTable and Pipeline.
-- 🌱 I’m currently learning and studying for the AWS developer exam and learning React
+- 🌱 I’m currently learning and studying for the AWS developer exam and learning more about React
 - 📫 How to reach me: evazquez0792@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Life goal is to step foot on all 7 continents, I hit 5. Also have 5 dogs and am an archer.
+- 💻 Technical skills: Java, Spring Boot, PostgreSQL, HTML, CSS, JavaScript, Vue.js, Unit testing(Junit), JSON, MongoDB, Cloud Concepts, Linux, Cyber Security
 
 <p align ="center"> And if you weren't impressed with my repos, you can at least walk away with a joke <br>
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></p>
