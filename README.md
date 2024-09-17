@@ -6,8 +6,6 @@
     <a href = "https://dev.to/v4vazquez"><img width = "47" height = "47" src="https://github.com/user-attachments/assets/58bb5285-373c-4619-a5ec-be0a423fa803"&nbsp;/></a>
    <a href = "https://squaretwo.dev"><img width = "45" height = "45" src="https://github.com/user-attachments/assets/ab2f1f3b-5a2f-4351-8151-a3346ed30e55"&nbsp;/></a>
     <a href = "https://linkedin.com/in/v4vazquez"><img width = "47" height = "47" src="https://github.com/user-attachments/assets/5c85ed24-c458-42cd-957d-e1a2c8e92404"&nbsp;/></a>
-   
-/></a>
 </p>
 
 - 🔭 I’m currently working on a few side projects - ContactHub, TurnTable and Pipeline.
